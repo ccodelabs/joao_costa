@@ -1,0 +1,2707 @@
+initializing MDB device...
+Device Connected
+[
+1 0 1 0 1 0 1 0 1 0 
+0 1 1 1 1 1 1 1 1 1 
+0 1 1 1 1 1 1 1 1 1 
+0 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+0 0 0 0 0 0 0 0 0 0 
+]
+ALL LOW
+ALL LOW 	1
+ALL LOW 	2
+ALL LOW 	3
+ALL LOW 	4
+ALL LOW 	5
+ALL LOW 	6
+ALL LOW 	7
+ALL LOW 	8
+ALL LOW 	9
+ALL LOW 	10
+ALL LOW 	11
+ALL LOW 	12
+ALL LOW 	25
+ALL LOW 	26
+ALL LOW 	27
+ALL LOW 	28
+ALL LOW 	29
+ALL LOW 	30
+ALL LOW 	31
+ALL LOW 	32
+Continuing
+Initializng TCP server
+Process serial: 	
+Process serial: 	
+00,c0,00,00
+Process serial: 	i,00fe
+Door opened
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,4095
+Data received: 	t,4095
+Temperature = 	4095
+Desired temp: 	10
+Actual temp: 	4095
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Client connected from address 127.0.0.1
+[DEBUG] TCP Receive: VEND,3,3
+Enabling motor
+Process serial: 	
+Process serial: 	
+40,c0,00,02
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Process serial: 	i,00fe
+Door opened
+Response callback 	i,00fe
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,017e
+Door opened
+Response callback 	i,017e
+Array: 01111110
+Process serial: 	i,007e
+Door opened
+Response callback 	i,007e
+Array: 01111110
+Process serial: 	i,01fe
+Door opened
+Response callback 	i,01fe
+Array: 11111110
+Process serial: 	o,00,c0,00,00
+Data received: 	nil
+error getting temperature
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,280
+Data received: 	t,280
+Temperature = 	280
+Desired temp: 	10
+Actual temp: 	280
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,2072
+Data received: 	t,2072
+Temperature = 	2072
+Desired temp: 	10
+Actual temp: 	2072
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24
+Data received: 	t,24
+Temperature = 	24
+Desired temp: 	10
+Actual temp: 	24
+Process serial: 	o,00,c0,00,00
+Process serial: 	t,24

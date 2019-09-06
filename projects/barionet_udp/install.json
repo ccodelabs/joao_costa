@@ -1,0 +1,26 @@
+{
+	"name":"readpin_sendUDP",
+	"author":"joaolrc",
+	"description":"Send UDP command when pin is low",
+	"run":"lua read_io.lua",
+	"scriptPath":"read_io.lua",
+	"dependencies": [
+	{
+		"name":"luasocket",
+		"type":"opkg-install"
+	},
+	{
+		"name":"libuv",
+		"type":"opkg-install"
+	},
+	{
+		"name":"luv",
+		"type":"opkg-install"
+	},
+	{
+		"name":"LuniquickMQTT",
+		"type":"flexa-provided",
+        "path":"LinuquickMQTT.zip"
+	},
+]
+}
