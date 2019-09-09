@@ -1,23 +1,37 @@
 '''
 Python Script to interface MDB-USB as master with cashless reader as slave.
+It is advised to run with high permissions.
+
+Accepts following arguments (default):
+    -debug or -d   (0)            1=debug mode   0=only essential prints
+    -port or -p    (/dev/ttyACM0) chooses serial port for communication 
+    -output or -o  (1)            0=supress all output to console.
+example (on linux): sudo python3 mdb_dialogV5.py -d 1 -p /dev/ttyACM2 -o 1
+
 Created 6 Sep 2019 by João Costa - Qibixx AG
 '''
+
 import serial
 import time
-import sys
+import argparse,sys,os
+import os
 
+#parse argument from user input
+def parse_arguments():
+    parser = argparse.ArgumentParser(allow_abbrev=True)
+    parser.add_argument('-debug', dest='debug',type=int,default=False)
+    parser.add_argument('-port',dest='port', type=str,default='/dev/ttyACM0')
+    parser.add_argument('-output',dest='console_out', type=int,default=1)
+    args = parser.parse_args()
+    debug=bool(args.debug)
 
+    if not args.console_out:
+        sys.stdout = open(os.devnull, "w") #Disable all output
+        
+    if debug:print('Debug Activated!')
 
-if len(sys.argv)<2:
-    debug = False
-elif arg_arr[0]=='debug':
-    arg_arr=[]
-    arg_arr=sys.argv[1].split('=')
-    debug=int(arg_arr[1])
-else:
-    exit('Unknown Argument. Exiting...')
+    return args,debug
 
-if debug:print('Debug Activated!')
 
 
 # initial serial port configuration
@@ -25,7 +39,7 @@ def initserial():
     ser = serial.Serial()
     ser.baudrate = 115200
     ser.timeout = 1
-    ser.port = '/dev/ttyACM1'  # choose USB PORT
+    ser.port = args.port  # choose USB PORT - default=/dev/ttyACM0
     ser.open()  # open serial comunication
     time.sleep(1)  # wait for serial comunication to be established
     return ser  # pass the handler
@@ -123,22 +137,23 @@ def end_comunication(ser):
     res, lines = write_and_readlns("D,0\n", ser)  # Disable the host (master)
     ser.close()
 
-if __name__ == "__main__":
-    print("Initializing serial port...")
-    ser = initserial()
-    if  ser.is_open:
-        init_devices(ser)                
-        amount,product=input("Enter the amount and the product to dispense, separated by a space and hit enter\n(ex.:1.2 10): ").strip().split() #wait for user input
+#if __name__ == "__main__":
+args,debug=parse_arguments()
+print("Initializing serial port: "+args.port)
+ser = initserial()
+if  ser.is_open:
+    init_devices(ser)                
+    amount,product=input("Enter the amount and the product to dispense, separated by a space and hit enter\n(ex.:1.2 10): ").strip().split() #wait for user input
 
-        direct = detect_direct_vend(amount,product,ser)        
-        if not direct: #Automatically falls back to D,1 (normal Vend) and proceed
-            normal_vend(amount,product,ser)  
-        else: #Direct Vend detected
-            if debug: print('Direct Vend detected')
-            res=read_and_wait(ser)  #Wait for user to present the card
-            end_transaction(amount,product,ser)
+    direct = detect_direct_vend(amount,product,ser)        
+    if not direct: #Automatically falls back to D,1 (normal Vend) and proceed
+        normal_vend(amount,product,ser)  
+    else: #Direct Vend detected
+        if debug: print('Direct Vend detected')
+        res=read_and_wait(ser)  #Wait for user to present the card
+        end_transaction(amount,product,ser)
 
-        end_comunication(ser)
-        print("Finished...")
-    else:
-        print("Failed to open Serial port")
+    end_comunication(ser)
+    print("Finished...")
+else:
+    print("Failed to open Serial port")
