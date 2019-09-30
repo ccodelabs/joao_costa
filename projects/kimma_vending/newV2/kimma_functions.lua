@@ -110,26 +110,26 @@ end
 
 --rotate motor (1 complete turn) placed in coordinates x,y (matrix 10x6)
 function enable_motor(DL_matrix, DH_matrix, serial_port, x, y)
-    local min_delay = 500
+    --local min_delay = 200
     serial_port:write(DL_matrix[x][y] .. "1\n")
     serial_port:write(DH_matrix[x][y] .. "1\n")
-    serial_port:read(100, min_delay) --clear buffer
+    serial_port:read(100, 700) --clear buffer
 
     local signal = ""
     --read turn signal while turn is incomplete
     while string.find(signal, "i,00ff") == nil and string.find(signal, "i,01ff") == nil do
         serial_port:write("I\n")
-        signal = serial_port:read(100, min_delay)
+        signal = serial_port:read(100, 5)
     end
 
     serial_port:write(DL_matrix[x][y] .. "0\n")
     serial_port:write(DH_matrix[x][y] .. "0\n")
-    serial_port:read(100, min_delay) --clear buffer
+    serial_port:read(100, 5) --clear buffer
 end
 
 --detect presence of motor placed in x,y coordinates
 function detect_motor(DL_matrix, DH_matrix, serial_port, x, y)
-    local min_delay = 500
+    local min_delay = 5
     serial_port:write(DL_matrix[x][y] .. "1\n")
     serial_port:write(DH_matrix[x][y] .. "1\n")
     serial_port:read(100, min_delay) --clear buffer

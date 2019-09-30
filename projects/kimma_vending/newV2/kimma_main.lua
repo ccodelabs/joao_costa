@@ -11,6 +11,7 @@ DL = create_dl_matrix()
 
 --init function
 serial_port = getserialport()
+print(serial_port)
 
 --main loop
 while 1 do
